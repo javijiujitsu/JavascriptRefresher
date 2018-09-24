@@ -20,7 +20,3 @@ JavaScript Basics - Variables and Flow Control:
 15. App Themes ( Hosting Application)
 16. JavaScript with Babel and Webpack
 
-
-
-
-
